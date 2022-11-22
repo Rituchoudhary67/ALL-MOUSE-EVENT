@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#btn_id {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border: none;
+    margin: 20px;
+    border-radius: 5px;
+}
+#mover_id {
+    background-color: green;
+    color: white;
+    width: 30%;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    /* height: 45px; */
+}
+#mout_id {
+    background-color:  orangered;
+    color: white;
+    width: 30%;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+}
+#mdown_id {
+    background-color:goldenrod;
+}
+#mdown_id ,#mup_id,#mover_id ,#mout_id, #mmove_id{
+    color: white;
+    width: 30%;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+}
+#mup_id {
+      background-color: brown;
+}
+#mmove_id {
+    background-color: black;
+}
+#color_id {
+    background-color: crimson;
+    height: 40px;
+    width: 150px;
+    margin: 15px;
+    margin-top: -80px;
+}
